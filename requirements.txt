@@ -1,0 +1,6 @@
+numpy==1.18.1
+bleak==0.9.1
+websockets==8.1
+matplotlib==3.0.3
+neosensory_python==0.0.1
+scikit_learn==0.24.0
